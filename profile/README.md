@@ -27,7 +27,7 @@ If you're interested in:
 
 Feel free to reach out to us at:
 
-✉️ **ctf@hackasec.team**
+✉️ **ping@hackasec.team**
 
 We look forward to collaborating with you!
 
